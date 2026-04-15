@@ -40,9 +40,9 @@
 
 
 # Provisioning 
-#Zmienne lokalne które umożliwiąja połaczenie się z serwerem mailowym
-:local siteId         ""
-:local provisionUrl   ""
+# Zmienne lokalne które umożliwiają połączenie się z serwerem mailowym 
+:local siteId "" 
+:local provisionUrl "" 
 :local provisionToken ""
 
 :put "Provisioning"
